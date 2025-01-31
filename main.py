@@ -154,4 +154,4 @@ def scrape_multiple_urls(urls, start_page, end_page):
 urls = [
     "https://bj.coinafrique.com/categorie/immobilier"
 ]
-scrape_multiple_urls(urls, start_page=1, end_page=60)
+scrape_multiple_urls(urls, start_page=61, end_page=119)
